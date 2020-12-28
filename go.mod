@@ -1,4 +1,4 @@
-module uptimerobot-tool
+module github.com/1node-Solutions/uptimerobot-tool
 
 go 1.14
 
